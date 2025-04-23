@@ -1,0 +1,20 @@
+# Ignore everything
+*
+!*/
+
+# Don't ignore these folders
+!.gitignore
+!config/**
+!mods/**
+!MODLIST.md
+config/indium-renderer.properties
+config/iris.properties
+config/lightmanscurrency-client.lcconfig
+config/lightmanscurrency-server.lcconfig
+config/vmp.properties
+config/xaerominimap_entities.json
+config/fabric/indigo-renderer.properties
+config/jade/usernamecache.json
+config/lightmanscurrency/ATMData.json
+config/lightmanscurrency/MasterCoinList.json
+config/lightmanscurrency/PersistentTraders.json
