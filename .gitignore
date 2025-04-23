@@ -6,7 +6,7 @@
 !.gitignore
 !config/**
 !mods/**
-!MODLIST.md
+!README.md
 config/indium-renderer.properties
 config/iris.properties
 config/lightmanscurrency-client.lcconfig
